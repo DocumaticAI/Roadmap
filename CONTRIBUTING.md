@@ -35,7 +35,7 @@ and barred from accessing Documatic products.
 ## Feature requests
 
 If you have an idea for a new feature in Documatic products,
-or an addition/extension to an existing Documatic product,
+or an addition/extension to an existing Documatic feature,
 first check existing issues (opened and closed)
 for duplicate requests.
 If no existing issue exists,
@@ -43,7 +43,7 @@ please open an issue using the "Feature request"
 issue template provided.
 
 If you find an open issue relating to a feature request
-of interesting to you,
+of interest to you,
 please react to the **original** issue
 with a 👍 or 👎 reaction
 to indicate that you would or would not like this feature
