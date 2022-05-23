@@ -54,6 +54,8 @@ then please leave a comment.
 Off topic or protracted discussions will be closed
 or removed.
 
+**Feature requests may be migrated by the Documatic team to a private channel with the issue opener**
+
 ## Queries
 
 If you have a question about using Documatic products,
